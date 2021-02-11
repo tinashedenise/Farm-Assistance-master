@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "150859810122",
+    "project_id": "farmersaidke",
+    "storage_bucket": "farmersaidke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150859810122:android:24ce40e711474297b52db3",
+        "android_client_info": {
+          "package_name": "com.project.agriculturalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150859810122-lmic073e2ba8gcka1ra4b4180jhdnijf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.agriculturalapp",
+            "certificate_hash": "2e0a3f6a983bde24d41cce0feafac50f351f37a7"
+          }
+        },
+        {
+          "client_id": "150859810122-uqbr1eip2m1ua7jo41h5lbs1b3bo80g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Iz7KJ6isuO2MIsO69Agq_tuAzoI8-EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150859810122-uqbr1eip2m1ua7jo41h5lbs1b3bo80g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150859810122:android:a5f12efb28b923cfb52db3",
+        "android_client_info": {
+          "package_name": "com.project.agriculturalapp.activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150859810122-uqbr1eip2m1ua7jo41h5lbs1b3bo80g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Iz7KJ6isuO2MIsO69Agq_tuAzoI8-EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150859810122-uqbr1eip2m1ua7jo41h5lbs1b3bo80g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
